@@ -2,7 +2,7 @@
 
 Done as part of Nand2Tetris Course in Coursera.
 
-Designed a 16 bit CPU based Von Neuman Architecture.
+Designed a 16 bit CPU based on Von Neuman Architecture.
 
 The ALU is capable of doing 18 operations.
 
