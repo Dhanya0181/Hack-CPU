@@ -21,3 +21,5 @@ Project 4 : About Assembly Language
 
 Project 5 : Hack CPU
 
+Project 6 : Assembler for Hack Computer
+
